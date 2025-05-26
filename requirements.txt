@@ -1,0 +1,7 @@
+certifi==2025.4.26
+charset-normalizer==3.4.2
+git-manager==0.2.0
+idna==3.10
+requests==2.32.3
+-e git+https://github.com/seygodin/ResearChain.git@4a098524b83bd33b006b6f26a939e9b3d36ac437#egg=researchain
+urllib3==2.4.0

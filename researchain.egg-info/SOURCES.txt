@@ -1,7 +1,10 @@
 README.md
 setup.py
 researchain/__init__.py
+researchain/cli.py
 researchain.egg-info/PKG-INFO
 researchain.egg-info/SOURCES.txt
 researchain.egg-info/dependency_links.txt
+researchain.egg-info/entry_points.txt
+researchain.egg-info/requires.txt
 researchain.egg-info/top_level.txt

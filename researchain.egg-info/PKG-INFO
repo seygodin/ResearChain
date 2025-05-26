@@ -1,3 +1,9 @@
 Metadata-Version: 2.4
 Name: researchain
 Version: 0.1.0
+Summary: Research-AI efficiency tool
+Author: seungeon lee
+Requires-Dist: git_manager>=0.1.0
+Dynamic: author
+Dynamic: requires-dist
+Dynamic: summary
