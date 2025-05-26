@@ -1,0 +1,7 @@
+README.md
+setup.py
+researchain/__init__.py
+researchain.egg-info/PKG-INFO
+researchain.egg-info/SOURCES.txt
+researchain.egg-info/dependency_links.txt
+researchain.egg-info/top_level.txt
